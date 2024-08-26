@@ -67,9 +67,16 @@
 				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/3N/0FCF5YY4B5ZCX9P1UHOC0K.uasset",
 				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/FirstPerson/Input/Actions/IA_UseItem.uasset",
 				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/FirstPerson/Input/Actions/IA_Interaction.uasset",
-				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
 				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/FirstPerson/Input/IMC_Interacions.uasset",
-				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Blueprints/BP_Interactable.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Blueprints/BP_Interactable_Test.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Blueprints/M_Highlight.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Materials/M_Highlight.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/UI/UW_Prompt.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/QE/6GBT9RFDUHIZLYGVRD3X28.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
 			]
 		}
 	]
