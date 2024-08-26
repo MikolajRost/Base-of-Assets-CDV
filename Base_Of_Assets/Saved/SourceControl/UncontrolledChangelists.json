@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/Textures/DefaultMaterial_Alpha.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/Textures/DefaultMaterial_BaseColor.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/Textures/DefaultMaterial_Displacement.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/Textures/DefaultMaterial_Emission.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/Textures/DefaultMaterial_Metallic.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/Textures/DefaultMaterial_Normal.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/Textures/DefaultMaterial_Roughness.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_KurekHP.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruLP_Cylinder_004.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruLP_Cube_035.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruLP_Cube_038.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruLP_KurekLP.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_034.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_013.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_014.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_015.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_016.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_017.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_018.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_020.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_023.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cylinder_001.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_024.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_025.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_026.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cube_027.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/Base-of-Assets-CDV/Base_Of_Assets/Content/Art/CyberPunkPistol/cyberpunkRewolweruHP_Cylinder_003.uasset"
+			]
+		}
+	]
+}
